@@ -4,3 +4,4 @@
 
 2. [A Real Challenge](https://open.kattis.com/problems/areal) --> Sat 1 March 2025
 
+3. [Bacon, Eggs, and Spam](https://open.kattis.com/problems/baconeggsandspam) --> Sat 1 March 2025
