@@ -9,3 +9,5 @@
 4. [Broken Swords](https://open.kattis.com/problems/brokenswords) --> Sat 1 March 2025
 
 5. [Code to Save Lives](https://open.kattis.com/problems/codetosavelives) --> Sat 1 March 2025 
+
+6. [Cooking Water](https://open.kattis.com/problems/cookingwater) --> Sat 1 March 2025 
