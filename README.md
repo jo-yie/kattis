@@ -8,3 +8,4 @@
 | 4 | [Broken Swords](https://open.kattis.com/problems/brokenswords) | 1.9 | Sat 1 March 2025 | 
 | 5 | [Code to Save Lives](https://open.kattis.com/problems/codetosavelives) | 1.7 | Sat 1 March 2025 | 
 | 6 | [Cooking Water](https://open.kattis.com/problems/cookingwater) | 1.9 | Sat 1 March 2025 |
+| 7 | [Count Doubles](https://open.kattis.com/problems/countdoubles) | 1.9 | Sun 2 March 2025 |
